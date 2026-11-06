@@ -1,0 +1,6 @@
+# Pastikan semua file script Linux menggunakan Line Ending LF (bukan CRLF Windows)
+* text=auto eol=lf
+*.sh text eol=lf
+*.py text eol=lf
+*.conf text eol=lf
+*.md text eol=lf
